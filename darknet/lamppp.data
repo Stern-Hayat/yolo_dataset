@@ -2,4 +2,4 @@ classes= 1
 train  = train.txt
 valid  = test.txt
 names = lamp.names
-backup = /root/darknet/backup
+backup = /root/yolo_dataset/darknet/backup
