@@ -7,7 +7,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 path_data = 'data/obj/'
 
 # Percentage of images to be used for the test set
-percentage_test = 5;
+percentage_test = 15;
 
 # Create and/or truncate train.txt and test.txt
 file_train = open('train.txt', 'w')
