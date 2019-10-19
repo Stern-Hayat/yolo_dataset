@@ -8,6 +8,7 @@
 #ifdef GPU
     #define BLOCK 512
 
+    #include "cuda_runtime.h"
     #include "curand.h"
     #include "cublas_v2.h"
 
